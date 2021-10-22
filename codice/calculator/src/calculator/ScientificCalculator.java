@@ -7,5 +7,7 @@ public class ScientificCalculator
 	public double log(double x) {
 		return 1;
 	}
+	
+	
 
 }
